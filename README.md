@@ -28,6 +28,7 @@ O projeto é organizado em um único notebook, onde toda a análise acontece:
 Challenge_TelecomX/
 |
 ├── TelecomX_BR.ipynb      -> Notebook principal com ETL, gráficos e análises
+├── TelecomX_Data.json     -> Arquivo com os dados do projeto
 ├── TelecomX_dicionario.md -> Dicionário de dados
 ├── README.md              -> Documentação do projeto
 ```
